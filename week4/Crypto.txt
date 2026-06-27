@@ -1,0 +1,4 @@
+Advanced Cryptography
+Week 4 work
+
+Advanced Encryption Standard (AES) is a symmetric block cipher used to securely encrypt and decrypt digital data. It uses the same secret key for both encryption and decryption and is widely used to protect sensitive information due to its high level of security and efficiency. AES supports key sizes of 128, 192, and 256 bits, making it one of the most trusted encryption standards in modern computing.
